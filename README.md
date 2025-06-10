@@ -24,7 +24,7 @@ Check out the Figma design prototype here:
 3. **Open in Browser** to confirm the chatbot is functioning properly with no missing files or console errors.
 
 ## Example Chat Questions
-Below are some example questions that can be displayed as clickable chips/buttons for your chatbot:
+Below are some example questions that can be displayed in the chatbot:
 ```html
 
 Who founded the startup?
