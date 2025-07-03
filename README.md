@@ -6,9 +6,6 @@ An AI-driven learning platform designed to empower students with personalized ed
 Experience LearnMate in action here:  
 [https://learn-mat.netlify.app/](https://learn-mat.netlify.app/)
 
-## Figma Design
-Check out the Figma design prototype here:  
-[https://www.figma.com/design/8JX42OGewLVzg7wpYIvwKV/learnmate---project-webs-design?t=PcR6aKMqb5nOwpat-0](https://www.figma.com/design/8JX42OGewLVzg7wpYIvwKV/learnmate---project-webs-design?t=PcR6aKMqb5nOwpat-0)
 
 ## Features
 - **AI Chatbot**: Fully functional on the public site, providing support for grade 9–12 subjects.  
